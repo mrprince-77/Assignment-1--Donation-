@@ -47,8 +47,10 @@ footer h2{
     border-bottom-left-radius: 0px;
     background-color: chocolate;
 }
-
-#ourPlan{
+.text-center{
+    text-align: center;
+}
+.flexView{
     display: flex;
 }
 .clsPlan{
@@ -67,4 +69,16 @@ footer h2{
 
 .pln3{
     background-color: rgb(134, 104, 162);
+}
+
+.clsAmount{
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    border: 3px solid saddlebrown;    
+}
+
+.clsAmount h1{
+    font-size: 45px;
 }
