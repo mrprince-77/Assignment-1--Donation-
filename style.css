@@ -3,7 +3,7 @@ body{
     font-family: 'Gentium Book Plus', serif;
 }
 body h1{
-    width: 700;
+    font-size: 70px;
 }
 footer{
     background-color: black;
@@ -20,6 +20,10 @@ footer h2{
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+#myUpdate h1{
+    margin-bottom: 0;
 }
 
 #myUpdate form{
@@ -42,4 +46,25 @@ footer h2{
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
     background-color: chocolate;
+}
+
+#ourPlan{
+    display: flex;
+}
+.clsPlan{
+    margin: 20px 40px;
+    padding:15px;
+    width: 25%;
+}
+.pln1{
+    margin-left: 50px;
+    background-color: beige;
+}
+
+.pln2{
+    background-color: rgb(113, 146, 147);
+}
+
+.pln3{
+    background-color: rgb(134, 104, 162);
 }
