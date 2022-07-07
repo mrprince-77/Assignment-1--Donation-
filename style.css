@@ -123,7 +123,7 @@ footer h2{
 }
 
 #ourBlog .pln1{
-    background-color: yellowgreen;
+    background-color:  rgb(223, 223, 184);
     height: 400px;
     width: 400px;
     color: maroon;
@@ -131,14 +131,14 @@ footer h2{
 }
 
 #ourBlog .pln2{
-    background-color: yellowgreen;
+    background-color:  rgb(223, 223, 184);
     height: 400px;
     width: 400px;
     color: maroon;
     border-radius: 15px;
 }
 #ourBlog .pln3{
-    background-color: yellowgreen;
+    background-color:  rgb(223, 223, 184);
     height: 400px;
     width: 400px;
     color: maroon;
