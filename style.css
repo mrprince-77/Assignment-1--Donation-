@@ -57,6 +57,7 @@ footer h2{
     margin: 20px 40px;
     padding:15px;
     width: 25%;
+    text-align: left;
 }
 .pln1{
     margin-left: 50px;
@@ -119,4 +120,29 @@ footer h2{
     color: white;
     background-size: 100%;
     padding-top: 100px;;
+}
+
+#ourBlog .pln1{
+    background-color: yellowgreen;
+    height: 400px;
+    width: 400px;
+    color: maroon;
+}
+
+#ourBlog .pln2{
+    background-color: yellowgreen;
+    height: 400px;
+    width: 400px;
+    color: maroon;
+}
+#ourBlog .pln3{
+    background-color: yellowgreen;
+    height: 400px;
+    width: 400px;
+    color: maroon;
+}
+
+.clsImg{
+    height: 50%;
+    width: 100%;
 }
