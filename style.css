@@ -76,7 +76,10 @@ footer h2{
     height: 130px;
     width: 130px;
     padding: 20px;
-    border: 3px solid saddlebrown;    
+    border: 3px solid rgb(167, 18, 48);    
+}
+.clsAmount100{
+    background-color: rgb(246, 135, 157);
 }
 
 .clsAmount h1{
@@ -88,11 +91,32 @@ footer h2{
 }
 
 #OtherAmount{
-    border-bottom: 2px solid silver;
-    display: block;
+    padding: 15px;
+    border-bottom: 2px solid maroon;
+    width: 300px;
+    text-align: center;
+    font-size: 20px;
 }
 
 .clsDonate{
+    margin-top: 50px;
+    margin-left: 45%;
     padding: 15px 40px;
     font-size: 20px;
+    background-color: rgb(220, 62, 75);
+    border-radius: 30px;
+    display: block;
+}
+
+#divOtherAmount{
+    margin-top: 50px;
+}
+
+#header{
+    background-image: url(images/TopImage.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    color: white;
+    background-size: 100%;
+    padding-top: 100px;;
 }
