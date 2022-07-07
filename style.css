@@ -127,6 +127,7 @@ footer h2{
     height: 400px;
     width: 400px;
     color: maroon;
+    border-radius: 15px;
 }
 
 #ourBlog .pln2{
@@ -134,15 +135,18 @@ footer h2{
     height: 400px;
     width: 400px;
     color: maroon;
+    border-radius: 15px;
 }
 #ourBlog .pln3{
     background-color: yellowgreen;
     height: 400px;
     width: 400px;
     color: maroon;
+    border-radius: 15px;
 }
 
 .clsImg{
     height: 50%;
     width: 100%;
+    border-radius: 15px;
 }
